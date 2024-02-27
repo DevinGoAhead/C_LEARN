@@ -1,0 +1,11 @@
+﻿  C++_Test.cpp
+  String.cpp
+D:\Xuyang Wei\source\repos\C++_learn\String\String\String.cpp(27,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Xuyang Wei\source\repos\C++_learn\String\String\String.cpp(82,11): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Xuyang Wei\source\repos\C++_learn\String\String\String.cpp(97,11): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Xuyang Wei\source\repos\C++_learn\String\String\String.cpp(112,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Xuyang Wei\source\repos\C++_learn\String\String\String.cpp(210,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Xuyang Wei\source\repos\C++_learn\String\String\String.cpp(228,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Xuyang Wei\source\repos\C++_learn\String\String\String.cpp(241,11): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C++_Test.obj : error LNK2001: 无法解析的外部符号 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl wxy::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class wxy::String const &)" (??6wxy@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV12@AEBVString@0@@Z)
+D:\Xuyang Wei\source\repos\C++_learn\String\x64\Release\String.exe : fatal error LNK1120: 1 个无法解析的外部命令
